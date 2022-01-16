@@ -1,0 +1,8 @@
+{
+  "name": "data_structure",
+  "version": "0.0.1",
+  "description": "data structure for javascript",
+  "main": "index.js",
+  "author": "Quang Dai <phungquangdai98@gmail.com>",
+  "license": "MIT"
+}
